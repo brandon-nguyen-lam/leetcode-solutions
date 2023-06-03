@@ -16,6 +16,7 @@ what we need to do is keep track of the time. Since each person has an 'informTi
 what we can do is start off with a time of 0 at our manager and increase our
 current time by the specific employees informTime. On each iteration of this,
 we will have a max variable and compare it each time to get our final result.
+
 '''
 
 class Solution:
